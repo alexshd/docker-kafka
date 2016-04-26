@@ -1,5 +1,4 @@
 # Kafka and Zookeeper
-
 FROM java:openjdk-8-jre
 
 ENV DEBIAN_FRONTEND noninteractive
